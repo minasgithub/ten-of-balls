@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ten-of-balls/static/css/main.fb70848b.css",
+    "main.js": "/ten-of-balls/static/js/main.41191764.js",
+    "static/js/787.1b351bd7.chunk.js": "/ten-of-balls/static/js/787.1b351bd7.chunk.js",
+    "static/media/ball.png": "/ten-of-balls/static/media/ball.3efc23f12070f9548192.png",
+    "static/media/game.jpg": "/ten-of-balls/static/media/game.e06d93d4621fd0724ee8.jpg",
+    "static/media/floor.jpg": "/ten-of-balls/static/media/floor.1844e46853c9b3c2e5a7.jpg",
+    "static/media/cube.png": "/ten-of-balls/static/media/cube.bbf638a1c90978ea94ab.png",
+    "index.html": "/ten-of-balls/index.html",
+    "main.fb70848b.css.map": "/ten-of-balls/static/css/main.fb70848b.css.map",
+    "main.41191764.js.map": "/ten-of-balls/static/js/main.41191764.js.map",
+    "787.1b351bd7.chunk.js.map": "/ten-of-balls/static/js/787.1b351bd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb70848b.css",
+    "static/js/main.41191764.js"
+  ]
+}
